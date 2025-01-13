@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1DwUbRiahpGZ4o-DdG_7S2XwFxjGdYOFo/view">
-    <title>Redirecting...</title>
-</head>
-<body>
-    <p>If you are not redirected automatically, follow this <a href="https://drive.google.com/file/d/1DwUbRiahpGZ4o-DdG_7S2XwFxjGdYOFo/view">link to your resume</a>.</p>
-</body>
-</html>
+# CV Repository
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://aicirou.github.io/cv/)
+
+Welcome to my personal cv repository. This repository contains my professional CV and portfolio, showcasing my skills, experience, and projects.
+
+Feel free to explore and reach out if you have any questions or opportunities.
